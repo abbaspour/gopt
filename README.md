@@ -31,3 +31,9 @@ Sample Generation
 -----------------
 To generate 3 Address code (_code.3a_), you can use other experimental project [here](http://github.com/abbaspour/mesi).
 
+Output Graph
+------------
+
+![This is a sample output](http://aminsblog.files.wordpress.com/2010/06/basic-block.jpeg)
+
+
