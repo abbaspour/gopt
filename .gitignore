@@ -1,0 +1,10 @@
+*.dot
+*.ps
+*.3a
+*.bak
+lex.yy.c
+y.tab.c
+gopt
+*.swp
+*.jpeg
+*.html
