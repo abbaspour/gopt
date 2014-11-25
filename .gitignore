@@ -8,3 +8,4 @@ gopt
 *.swp
 *.jpeg
 *.html
+*.o

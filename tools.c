@@ -57,7 +57,7 @@ int equal_set(struct block *dest, int d, struct block *src, int s) {
 
       default:
 	 printf("Unknows dest type[%d]\n", d);
-	 return;
+	 return 0;
    }
 
    switch(s)
@@ -88,7 +88,7 @@ int equal_set(struct block *dest, int d, struct block *src, int s) {
 
       default:
 	 printf("Unknows src type[%d]\n", s);
-	 return;
+	 return 0;
    }
    
    if( *di != *si )
